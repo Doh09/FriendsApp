@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Interfaces;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -9,11 +10,12 @@ namespace FriendsApp
 {
     public partial class App : Application
     {
+        public IToast MyToast { get; set; }
         public App()
         {
             InitializeComponent();
 
-            MainPage = new FriendsApp.MainPage();
+            MainPage = new FriendsApp.Friends_MasterPage();
         }
 
         protected override void OnStart()

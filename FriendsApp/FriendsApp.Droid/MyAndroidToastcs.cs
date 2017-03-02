@@ -1,0 +1,26 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+
+using Android.Graphics;
+using Android.App;
+using Android.Content;
+using Android.OS;
+using Android.Runtime;
+using Android.Views;
+using Android.Widget;
+
+namespace FriendsApp.Droid
+{
+    class MyAndroidToastcs
+    {
+        public void DisplayToast(string message)
+        {
+
+            Toast.MakeText(Android.App.Application.Context, message, ToastLength.Short).Show();
+            ListView lv = new ListView(null);
+            lv.SetBackgroundColor(Color.Blue);
+        }
+    }
+}

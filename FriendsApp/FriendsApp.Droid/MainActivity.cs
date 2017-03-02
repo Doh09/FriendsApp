@@ -20,7 +20,12 @@ namespace FriendsApp.Droid
             base.OnCreate(bundle);
 
             global::Xamarin.Forms.Forms.Init(this, bundle);
-            LoadApplication(new App());
+
+            App app = new App();
+            //app.MyToast = new MyAndroidToast();
+            LoadApplication(app);
+
+            
         }
     }
 }

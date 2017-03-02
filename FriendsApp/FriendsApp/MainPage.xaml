@@ -4,8 +4,7 @@
              xmlns:local="clr-namespace:FriendsApp"
              x:Class="FriendsApp.MainPage">
 
-  <Label Text="Welcome to Xamarin Forms!"
-           VerticalOptions="Center"
-           HorizontalOptions="Center" />
+  
+
 
 </ContentPage>

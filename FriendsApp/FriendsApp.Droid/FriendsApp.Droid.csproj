@@ -98,7 +98,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="MainActivity.cs" />
-    <Compile Include="MyAndroidToastcs.cs" />
+    <Compile Include="MyAndroidToast.cs" />
     <Compile Include="Resources\Resource.Designer.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
@@ -122,7 +122,7 @@
     <AndroidResource Include="Resources\values\styles.xml" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\..\..\..\GitHub\FriendsApp\Interfaces\Interfaces.csproj">
+    <ProjectReference Include="..\..\Interfaces\Interfaces.csproj">
       <Project>{66be15fe-6f92-4e33-947d-cf5d38b73146}</Project>
       <Name>Interfaces</Name>
     </ProjectReference>

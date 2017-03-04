@@ -76,4 +76,48 @@ C:\Users\alex_\onedrive\documents\visual studio 2015\Projects\FriendsApp\Friends
 C:\Users\alex_\onedrive\documents\visual studio 2015\Projects\FriendsApp\FriendsApp\FriendsApp.Droid\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
 C:\Users\alex_\onedrive\documents\visual studio 2015\Projects\FriendsApp\FriendsApp\FriendsApp.Droid\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
 C:\Users\alex_\onedrive\documents\visual studio 2015\Projects\FriendsApp\FriendsApp\FriendsApp.Droid\obj\Debug\FriendsApp.Droid.dll.mdb
-C:\Users\alex_\onedrive\documents\visual studio 2015\Projects\FriendsApp\FriendsApp\FriendsApp.Droid\bin\Debug\FriendsApp.Droid.dll.mdb
+C:\Users\alex_\OneDrive\Documents\GitHub\FriendsApp\FriendsApp\FriendsApp.Droid\bin\Debug\FriendsApp.Droid.dll
+C:\Users\alex_\OneDrive\Documents\GitHub\FriendsApp\FriendsApp\FriendsApp.Droid\bin\Debug\FriendsApp.Droid.pdb
+C:\Users\alex_\OneDrive\Documents\GitHub\FriendsApp\FriendsApp\FriendsApp.Droid\bin\Debug\FriendsApp.Droid.apk
+C:\Users\alex_\OneDrive\Documents\GitHub\FriendsApp\FriendsApp\FriendsApp.Droid\bin\Debug\FriendsApp.Droid-Signed.apk
+C:\Users\alex_\OneDrive\Documents\GitHub\FriendsApp\FriendsApp\FriendsApp.Droid\bin\Debug\FormsViewGroup.dll
+C:\Users\alex_\OneDrive\Documents\GitHub\FriendsApp\FriendsApp\FriendsApp.Droid\bin\Debug\FriendsApp.dll
+C:\Users\alex_\OneDrive\Documents\GitHub\FriendsApp\FriendsApp\FriendsApp.Droid\bin\Debug\NewEntities.dll
+C:\Users\alex_\OneDrive\Documents\GitHub\FriendsApp\FriendsApp\FriendsApp.Droid\bin\Debug\Xamarin.Android.Support.Design.dll
+C:\Users\alex_\OneDrive\Documents\GitHub\FriendsApp\FriendsApp\FriendsApp.Droid\bin\Debug\Xamarin.Android.Support.v4.dll
+C:\Users\alex_\OneDrive\Documents\GitHub\FriendsApp\FriendsApp\FriendsApp.Droid\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\alex_\OneDrive\Documents\GitHub\FriendsApp\FriendsApp\FriendsApp.Droid\bin\Debug\Xamarin.Android.Support.v7.CardView.dll
+C:\Users\alex_\OneDrive\Documents\GitHub\FriendsApp\FriendsApp\FriendsApp.Droid\bin\Debug\Xamarin.Android.Support.v7.MediaRouter.dll
+C:\Users\alex_\OneDrive\Documents\GitHub\FriendsApp\FriendsApp\FriendsApp.Droid\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\alex_\OneDrive\Documents\GitHub\FriendsApp\FriendsApp\FriendsApp.Droid\bin\Debug\Xamarin.Forms.Platform.Android.dll
+C:\Users\alex_\OneDrive\Documents\GitHub\FriendsApp\FriendsApp\FriendsApp.Droid\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\alex_\OneDrive\Documents\GitHub\FriendsApp\FriendsApp\FriendsApp.Droid\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\alex_\OneDrive\Documents\GitHub\FriendsApp\FriendsApp\FriendsApp.Droid\bin\Debug\Interfaces.dll
+C:\Users\alex_\OneDrive\Documents\GitHub\FriendsApp\FriendsApp\FriendsApp.Droid\bin\Debug\NewEntities.pdb
+C:\Users\alex_\OneDrive\Documents\GitHub\FriendsApp\FriendsApp\FriendsApp.Droid\bin\Debug\FriendsApp.pdb
+C:\Users\alex_\OneDrive\Documents\GitHub\FriendsApp\FriendsApp\FriendsApp.Droid\bin\Debug\FormsViewGroup.pdb
+C:\Users\alex_\OneDrive\Documents\GitHub\FriendsApp\FriendsApp\FriendsApp.Droid\bin\Debug\FormsViewGroup.dll.mdb
+C:\Users\alex_\OneDrive\Documents\GitHub\FriendsApp\FriendsApp\FriendsApp.Droid\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\alex_\OneDrive\Documents\GitHub\FriendsApp\FriendsApp\FriendsApp.Droid\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\alex_\OneDrive\Documents\GitHub\FriendsApp\FriendsApp\FriendsApp.Droid\bin\Debug\Xamarin.Forms.Core.dll.mdb
+C:\Users\alex_\OneDrive\Documents\GitHub\FriendsApp\FriendsApp\FriendsApp.Droid\bin\Debug\Xamarin.Forms.Platform.Android.pdb
+C:\Users\alex_\OneDrive\Documents\GitHub\FriendsApp\FriendsApp\FriendsApp.Droid\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\alex_\OneDrive\Documents\GitHub\FriendsApp\FriendsApp\FriendsApp.Droid\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\alex_\OneDrive\Documents\GitHub\FriendsApp\FriendsApp\FriendsApp.Droid\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\alex_\OneDrive\Documents\GitHub\FriendsApp\FriendsApp\FriendsApp.Droid\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\alex_\OneDrive\Documents\GitHub\FriendsApp\FriendsApp\FriendsApp.Droid\bin\Debug\Interfaces.pdb
+C:\Users\alex_\OneDrive\Documents\GitHub\FriendsApp\FriendsApp\FriendsApp.Droid\obj\Debug\FriendsApp.Droid.csprojResolveAssemblyReference.cache
+C:\Users\alex_\OneDrive\Documents\GitHub\FriendsApp\FriendsApp\FriendsApp.Droid\obj\Debug\FriendsApp.Droid.dll
+C:\Users\alex_\OneDrive\Documents\GitHub\FriendsApp\FriendsApp\FriendsApp.Droid\obj\Debug\FriendsApp.Droid.pdb
+C:\Users\alex_\OneDrive\Documents\GitHub\FriendsApp\FriendsApp\FriendsApp.Droid\obj\Debug\android\bin\FriendsApp.Droid.apk
+C:\Users\alex_\OneDrive\Documents\GitHub\FriendsApp\FriendsApp\FriendsApp.Droid\obj\Debug\res\drawable\icon.png
+C:\Users\alex_\OneDrive\Documents\GitHub\FriendsApp\FriendsApp\FriendsApp.Droid\obj\Debug\res\drawable-hdpi\icon.png
+C:\Users\alex_\OneDrive\Documents\GitHub\FriendsApp\FriendsApp\FriendsApp.Droid\obj\Debug\res\drawable-xhdpi\icon.png
+C:\Users\alex_\OneDrive\Documents\GitHub\FriendsApp\FriendsApp\FriendsApp.Droid\obj\Debug\res\drawable-xxhdpi\icon.png
+C:\Users\alex_\OneDrive\Documents\GitHub\FriendsApp\FriendsApp\FriendsApp.Droid\obj\Debug\res\layout\tabbar.xml
+C:\Users\alex_\OneDrive\Documents\GitHub\FriendsApp\FriendsApp\FriendsApp.Droid\obj\Debug\res\layout\toolbar.xml
+C:\Users\alex_\OneDrive\Documents\GitHub\FriendsApp\FriendsApp\FriendsApp.Droid\obj\Debug\res\values\styles.xml
+C:\Users\alex_\OneDrive\Documents\GitHub\FriendsApp\FriendsApp\FriendsApp.Droid\obj\Debug\R.cs.flag
+C:\Users\alex_\OneDrive\Documents\GitHub\FriendsApp\FriendsApp\FriendsApp.Droid\obj\Debug\uploadflags.txt
+C:\Users\alex_\OneDrive\Documents\GitHub\FriendsApp\FriendsApp\FriendsApp.Droid\obj\Debug\FriendsApp.Droid.dll.mdb
+C:\Users\alex_\OneDrive\Documents\GitHub\FriendsApp\FriendsApp\FriendsApp.Droid\bin\Debug\FriendsApp.Droid.dll.mdb

@@ -10,10 +10,11 @@ using Android.OS;
 using Android.Runtime;
 using Android.Views;
 using Android.Widget;
+using Interfaces;
 
 namespace FriendsApp.Droid
 {
-    class MyAndroidToastcs
+    class MyAndroidToast : IToast
     {
         public void DisplayToast(string message)
         {

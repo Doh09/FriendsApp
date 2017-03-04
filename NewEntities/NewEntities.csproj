@@ -57,7 +57,7 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\..\..\GitHub\FriendsApp\Interfaces\Interfaces.csproj">
+    <ProjectReference Include="..\Interfaces\Interfaces.csproj">
       <Project>{66be15fe-6f92-4e33-947d-cf5d38b73146}</Project>
       <Name>Interfaces</Name>
     </ProjectReference>

@@ -24,9 +24,10 @@ namespace FriendsApp
         }
 
 
-        private void Cell_OnTapped(object sender, EventArgs e)
-        {
-            App.MyToast.DisplayToast("Clicked");
+        private  void Cell_OnTapped(object sender, EventArgs e)
+        {//async
+            //Friend f = fm.GetFriend(2);
+            //await Navigation.PushAsync(new FriendsDetailPage(f));
         }
     }
 }

@@ -30,6 +30,16 @@ namespace FriendsApp
         }
 
         /// <summary>
+        /// Returns the first Friend with a matching ID, returns null if none found.
+        /// </summary>
+        /// <param name="id"></param>
+        /// <returns></returns>
+        public Friend GetFriend(int id)
+        {
+            return Friends.FirstOrDefault(x => x.id == id);
+        }
+
+        /// <summary>
         /// Add a friend to the friends list
         /// </summary>
         /// <param name="f"></param>

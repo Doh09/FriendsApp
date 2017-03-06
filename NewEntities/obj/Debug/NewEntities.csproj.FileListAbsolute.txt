@@ -55,13 +55,3 @@ C:\Users\alex_\OneDrive\Documents\GitHub\FriendsApp\NewEntities\obj\Debug\NewEnt
 C:\Users\alex_\OneDrive\Documents\GitHub\FriendsApp\NewEntities\bin\Debug\NewEntities.dll.mdb
 C:\Users\alex_\OneDrive\Documents\GitHub\FriendsApp\NewEntities\obj\Debug\NewEntities.dll.mdb
 C:\Users\alex_\OneDrive\Documents\GitHub\FriendsApp\NewEntities\bin\Debug\NewEntities.dll.mdb
-C:\Users\alex_\OneDrive\Documents\GitHub\FriendsApp\NewEntities\obj\Debug\NewEntities.dll.mdb
-C:\Users\alex_\OneDrive\Documents\GitHub\FriendsApp\NewEntities\bin\Debug\NewEntities.dll.mdb
-C:\Users\alex_\OneDrive\Documents\GitHub\FriendsApp\NewEntities\obj\Debug\NewEntities.dll.mdb
-C:\Users\alex_\OneDrive\Documents\GitHub\FriendsApp\NewEntities\bin\Debug\NewEntities.dll.mdb
-C:\Users\alex_\OneDrive\Documents\GitHub\FriendsApp\NewEntities\obj\Debug\NewEntities.dll.mdb
-C:\Users\alex_\OneDrive\Documents\GitHub\FriendsApp\NewEntities\bin\Debug\NewEntities.dll.mdb
-C:\Users\alex_\OneDrive\Documents\GitHub\FriendsApp\NewEntities\obj\Debug\NewEntities.dll.mdb
-C:\Users\alex_\OneDrive\Documents\GitHub\FriendsApp\NewEntities\bin\Debug\NewEntities.dll.mdb
-C:\Users\alex_\OneDrive\Documents\GitHub\FriendsApp\NewEntities\obj\Debug\NewEntities.dll.mdb
-C:\Users\alex_\OneDrive\Documents\GitHub\FriendsApp\NewEntities\bin\Debug\NewEntities.dll.mdb

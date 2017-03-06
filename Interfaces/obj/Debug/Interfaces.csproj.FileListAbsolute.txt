@@ -1,6 +1,5 @@
 C:\Users\alex_\OneDrive\Documents\GitHub\FriendsApp\Interfaces\bin\Debug\Interfaces.dll
 C:\Users\alex_\OneDrive\Documents\GitHub\FriendsApp\Interfaces\bin\Debug\Interfaces.pdb
-C:\Users\alex_\OneDrive\Documents\GitHub\FriendsApp\Interfaces\obj\Debug\Interfaces.csprojResolveAssemblyReference.cache
 C:\Users\alex_\OneDrive\Documents\GitHub\FriendsApp\Interfaces\obj\Debug\Interfaces.dll
 C:\Users\alex_\OneDrive\Documents\GitHub\FriendsApp\Interfaces\obj\Debug\Interfaces.pdb
 C:\Users\Martin\Documents\GitHub\FriendsApp\Interfaces\bin\Debug\Interfaces.dll
@@ -10,16 +9,6 @@ C:\Users\Martin\Documents\GitHub\FriendsApp\Interfaces\obj\Debug\Interfaces.dll
 C:\Users\Martin\Documents\GitHub\FriendsApp\Interfaces\obj\Debug\Interfaces.pdb
 C:\Users\Martin\Documents\GitHub\FriendsApp\Interfaces\obj\Debug\Interfaces.dll.mdb
 C:\Users\Martin\Documents\GitHub\FriendsApp\Interfaces\bin\Debug\Interfaces.dll.mdb
-C:\Users\alex_\OneDrive\Documents\GitHub\FriendsApp\Interfaces\obj\Debug\Interfaces.dll.mdb
-C:\Users\alex_\OneDrive\Documents\GitHub\FriendsApp\Interfaces\bin\Debug\Interfaces.dll.mdb
-C:\Users\alex_\OneDrive\Documents\GitHub\FriendsApp\Interfaces\obj\Debug\Interfaces.dll.mdb
-C:\Users\alex_\OneDrive\Documents\GitHub\FriendsApp\Interfaces\bin\Debug\Interfaces.dll.mdb
-C:\Users\alex_\OneDrive\Documents\GitHub\FriendsApp\Interfaces\obj\Debug\Interfaces.dll.mdb
-C:\Users\alex_\OneDrive\Documents\GitHub\FriendsApp\Interfaces\bin\Debug\Interfaces.dll.mdb
-C:\Users\alex_\OneDrive\Documents\GitHub\FriendsApp\Interfaces\obj\Debug\Interfaces.dll.mdb
-C:\Users\alex_\OneDrive\Documents\GitHub\FriendsApp\Interfaces\bin\Debug\Interfaces.dll.mdb
-C:\Users\alex_\OneDrive\Documents\GitHub\FriendsApp\Interfaces\obj\Debug\Interfaces.dll.mdb
-C:\Users\alex_\OneDrive\Documents\GitHub\FriendsApp\Interfaces\bin\Debug\Interfaces.dll.mdb
 C:\Users\alex_\OneDrive\Documents\GitHub\FriendsApp\Interfaces\obj\Debug\Interfaces.dll.mdb
 C:\Users\alex_\OneDrive\Documents\GitHub\FriendsApp\Interfaces\bin\Debug\Interfaces.dll.mdb
 C:\Users\alex_\OneDrive\Documents\GitHub\FriendsApp\Interfaces\obj\Debug\Interfaces.dll.mdb

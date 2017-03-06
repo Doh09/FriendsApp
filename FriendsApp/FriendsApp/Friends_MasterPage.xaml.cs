@@ -1,4 +1,5 @@
 ﻿using Entities;
+using Interfaces;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -19,11 +20,13 @@ namespace FriendsApp
 
             var Friends = GetMockFriendList();
             listView.ItemsSource = Friends;
-
+            IDialer dialer = DependencyService.Get<IDialer>();
+            dialer.StartDial("521512");
         }
 
-        private List<Friend> GetMockFriendList() {
-           List<Friend> Friends = new List<Friend>();
+        private List<Friend> GetMockFriendList()
+        {
+            List<Friend> Friends = new List<Friend>();
             Friends.Add(new Friend
             {
                 id = 1,

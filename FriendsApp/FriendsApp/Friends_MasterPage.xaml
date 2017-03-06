@@ -3,10 +3,13 @@
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              Title="The Amazing Friends App"
+             Padding="0, 20, 0, 0"
              x:Class="FriendsApp.Friends_MasterPage">
 
   <ContentPage.Content>
-    <StackLayout VerticalOptions="FillAndExpand">
+    <StackLayout x:Name="MenuStackLayout" VerticalOptions="FillAndExpand">
+      <Label x:Name="MenuTitle" Text="Friend Menu" FontSize="Large"></Label>
+      <Button x:Name="btn_AddFriend" Text="Add friend" Clicked="Btn_AddFriend_OnClicked"></Button>
       <ListView x:Name="listView" VerticalOptions="FillAndExpand" SeparatorVisibility="None">
         <ListView.ItemTemplate>
           <DataTemplate>

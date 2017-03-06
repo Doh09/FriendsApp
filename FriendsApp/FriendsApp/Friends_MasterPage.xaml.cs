@@ -22,7 +22,13 @@ namespace FriendsApp
             ListView = listView; //sets the listview property to reference the XAML listview.
             NavigationPage.SetHasNavigationBar(this, true); //this line appears to control whether or not we have a title bar.
             listView.ItemsSource = fm.Friends; //Get source from FriendsManager
-            
+            Title = "Friends menu";
+            MenuTitle.BackgroundColor = Color.Silver;
+        }
+
+        private void Btn_AddFriend_OnClicked(object sender, EventArgs e)
+        {
+            App.MyToast.DisplayToast("User now needs to be sent to 'Add Friend' page");
         }
     }
 }

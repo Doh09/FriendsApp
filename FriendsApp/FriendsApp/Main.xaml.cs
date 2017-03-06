@@ -20,19 +20,19 @@ namespace FriendsApp
             Friend detailParameter = new Friend();
             detailParameter.id = -1; //Setting id to -1 to acknowledge this friend input is "fake"
             Detail = new NavigationPage(new FriendsDetailPage(detailParameter));
-            masterPage.ListView.ItemSelected += OnItemSelected;
+            masterPage.ListView.ItemTapped += ItemTapped;
             
         }
 
-        void OnItemSelected(object sender, SelectedItemChangedEventArgs e)
+        void ItemTapped(object sender, ItemTappedEventArgs e)
         {
-            var item = e.SelectedItem as Friend;
+            var item = e.Item as Friend;
             if (item != null)
             {
                 Detail = new NavigationPage(new FriendsDetailPage(item));
                 masterPage.ListView.SelectedItem = null;
                 IsPresented = false;
-                MasterBehavior = MasterBehavior.Split;
+                MasterBehavior = MasterBehavior.Popover;
             }
         }
 

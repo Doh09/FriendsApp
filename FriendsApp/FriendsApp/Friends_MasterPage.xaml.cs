@@ -82,9 +82,5 @@ namespace FriendsApp
             return Friends;
         }
 
-        private void BindableObject_OnPropertyChanged(object sender, PropertyChangedEventArgs e)
-        {
-           App.MyToast.DisplayToast("Clicked");
-        }
     }
 }

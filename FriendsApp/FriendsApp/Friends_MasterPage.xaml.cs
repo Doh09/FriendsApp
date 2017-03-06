@@ -14,73 +14,21 @@ namespace FriendsApp
 {
     public partial class Friends_MasterPage : ContentPage
     {
-        public ListView ListView { get { return listView; } }
+        public ListView ListView { get; set; }
+        private FriendsManager fm = FriendsManager.GetInstance();
         public Friends_MasterPage()
         {
             InitializeComponent();
-
-            var Friends = GetMockFriendList();
-            listView.ItemsSource = Friends;
-            IDialer dialer = DependencyService.Get<IDialer>();
-            dialer.StartDial("521512");
+            ListView = listView; //sets the listview property to reference the XAML listview.
+            NavigationPage.SetHasNavigationBar(this, true); //this line appears to control whether or not we have a title bar.
+            listView.ItemsSource = fm.Friends; //Get source from FriendsManager
+            Title = "Friends menu";
+            MenuTitle.BackgroundColor = Color.Silver;
         }
-
-        private List<Friend> GetMockFriendList()
+        
+        private void Btn_AddFriend_OnClicked(object sender, EventArgs e)
         {
-            List<Friend> Friends = new List<Friend>();
-            Friends.Add(new Friend
-            {
-                id = 1,
-                FirstName = "Martin",
-                LastName = "Gustavsen",
-                Address = new Address
-                {
-                    Country = "Denmark",
-                    City = "Esbjerg",
-                    ZipCode = "6700",
-                    StreetName = "Spangsbjerg Møllevej",
-                    StreetNumber = 62
-                },
-                PhoneNumber = 88888888,
-                ProfileImgPath = "https://scontent-arn2-1.xx.fbcdn.net/v/t1.0-9/946009_528195123932323_1817755414_n.jpg?oh=041c2de64e16101e78e38f95d51af16d&oe=592B8F54",
-                CustomText = "Martin is a student at EASV"
-            });
-            Friends.Add(new Friend
-            {
-                id = 1,
-                FirstName = "Alex",
-                LastName = "Andreasen",
-                Address = new Address
-                {
-                    Country = "Denmark",
-                    City = "Esbjerg V",
-                    ZipCode = "6710",
-                    StreetName = "Vædderens Kvarter",
-                    StreetNumber = 75
-                },
-                PhoneNumber = 88888888,
-                ProfileImgPath = "https://scontent-arn2-1.xx.fbcdn.net/v/t1.0-9/13718784_10209527266195112_8688651414822860447_n.jpg?oh=1586b528cefc7073cfbae579071c9c14&oe=5929B66A",
-                CustomText = "Alex is a student at EASV"
-            });
-            Friends.Add(new Friend
-            {
-                id = 1,
-                FirstName = "Huehue",
-                LastName = "Huehuesen",
-                Address = new Address
-                {
-                    Country = "Denmark",
-                    City = "Esbjerg",
-                    ZipCode = "6700",
-                    StreetName = "Awesome Road",
-                    StreetNumber = 9999
-                },
-                PhoneNumber = 88888888,
-                ProfileImgPath = "HuehuesImagePath",
-                CustomText = "Huehue is a student at EASV"
-            });
-            return Friends;
+            App.MyToast.DisplayToast("User now needs to be sent to 'Add Friend' page");
         }
-
     }
 }

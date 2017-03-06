@@ -11,6 +11,7 @@ using Android.Views;
 using Android.Widget;
 using FriendsApp.Droid;
 using Interfaces;
+using Xamarin.Forms;
 
 [assembly: Xamarin.Forms.Dependency(typeof(MyAndroidDialer))]
 namespace FriendsApp.Droid
@@ -19,14 +20,20 @@ namespace FriendsApp.Droid
     {
         public void Call(string number)
         {
-            IToast MyAndroidToast = new MyAndroidToast();
-            MyAndroidToast.DisplayToast("Call to " + number + " performed");
+            Dial(Intent.ActionCall, number);
         }
 
         public void StartDial(string number)
         {
-            IToast MyAndroidToast = new MyAndroidToast();
-            MyAndroidToast.DisplayToast("Dial to " + number + " performed");
+            Dial(Intent.ActionDial, number);
+        }
+
+        private void Dial(String dialMethod, String number)
+        {
+            var activity = (Activity)Forms.Context;
+            var uri = Android.Net.Uri.Parse("tel:" + number);
+            var intent = new Intent(dialMethod, uri);
+            activity.StartActivity(intent);
         }
     }
 

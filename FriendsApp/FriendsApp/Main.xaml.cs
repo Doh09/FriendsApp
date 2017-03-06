@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using Entities;
+using Interfaces;
 using Xamarin.Forms;
 
 namespace FriendsApp
@@ -20,6 +21,7 @@ namespace FriendsApp
             detailParameter.id = -1; //Setting id to -1 to acknowledge this friend input is "fake"
             Detail = new NavigationPage(new FriendsDetailPage(detailParameter));
             masterPage.ListView.ItemSelected += OnItemSelected;
+            
         }
 
         void OnItemSelected(object sender, SelectedItemChangedEventArgs e)
@@ -33,5 +35,6 @@ namespace FriendsApp
                 MasterBehavior = MasterBehavior.Split;
             }
         }
+
     }
 }

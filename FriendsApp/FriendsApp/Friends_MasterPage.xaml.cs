@@ -22,16 +22,7 @@ namespace FriendsApp
             ListView = listView; //sets the listview property to reference the XAML listview.
             NavigationPage.SetHasNavigationBar(this, true); //this line appears to control whether or not we have a title bar.
             listView.ItemsSource = fm.Friends; //Get source from FriendsManager
-            IDialer dialer = DependencyService.Get<IDialer>();
+            
         }
-
-        //private async void ListView_OnItemSelected(object sender, SelectedItemChangedEventArgs e)
-        //{
-        //    var item = e.SelectedItem as Friend;
-        //    if (item != null)
-        //    {
-        //        await Navigation.PushAsync(new FriendsDetailPage(item));
-        //    }
-        //}
     }
 }

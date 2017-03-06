@@ -20,8 +20,6 @@ namespace FriendsApp.Droid
         {
 
             Toast.MakeText(Android.App.Application.Context, message, ToastLength.Short).Show();
-            ListView lv = new ListView(null);
-            lv.SetBackgroundColor(Color.Blue);
         }
     }
 }

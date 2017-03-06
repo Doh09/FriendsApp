@@ -53,5 +53,3 @@ C:\Users\Martin\Documents\GitHub\FriendsApp\NewEntities\obj\Debug\NewEntities.dl
 C:\Users\Martin\Documents\GitHub\FriendsApp\NewEntities\bin\Debug\NewEntities.dll.mdb
 C:\Users\Martin\Documents\GitHub\FriendsApp\NewEntities\obj\Debug\NewEntities.dll.mdb
 C:\Users\Martin\Documents\GitHub\FriendsApp\NewEntities\bin\Debug\NewEntities.dll.mdb
-C:\Users\Martin\Documents\GitHub\FriendsApp\NewEntities\obj\Debug\NewEntities.dll.mdb
-C:\Users\Martin\Documents\GitHub\FriendsApp\NewEntities\bin\Debug\NewEntities.dll.mdb

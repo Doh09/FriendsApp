@@ -16,5 +16,3 @@ C:\Users\Martin\Documents\GitHub\FriendsApp\Interfaces\obj\Debug\Interfaces.dll.
 C:\Users\Martin\Documents\GitHub\FriendsApp\Interfaces\bin\Debug\Interfaces.dll.mdb
 C:\Users\Martin\Documents\GitHub\FriendsApp\Interfaces\obj\Debug\Interfaces.dll.mdb
 C:\Users\Martin\Documents\GitHub\FriendsApp\Interfaces\bin\Debug\Interfaces.dll.mdb
-C:\Users\Martin\Documents\GitHub\FriendsApp\Interfaces\obj\Debug\Interfaces.dll.mdb
-C:\Users\Martin\Documents\GitHub\FriendsApp\Interfaces\bin\Debug\Interfaces.dll.mdb

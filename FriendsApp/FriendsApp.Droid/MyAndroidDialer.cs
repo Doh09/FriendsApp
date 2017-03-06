@@ -9,7 +9,10 @@ using Android.OS;
 using Android.Runtime;
 using Android.Views;
 using Android.Widget;
+using FriendsApp.Droid;
+using Interfaces;
 
+[assembly: Xamarin.Forms.Dependency(typeof(MyAndroidDialer))]
 namespace FriendsApp.Droid
 {
     class MyAndroidDialer : IDialer

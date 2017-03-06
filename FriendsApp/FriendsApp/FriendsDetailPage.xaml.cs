@@ -15,7 +15,29 @@ namespace FriendsApp
         {
             InitializeComponent();
             Friend = friend;
+            if (Friend == null || Friend.id == -1) //If no friend selected
+            {
+                DisplayInstructions();
+            }
+            else //Friend is selected
+            {
+                DisplayFriend();
+            }
+        }
+
+        private void DisplayInstructions()
+        {
+            Title = "No friend selected";
+            Label lbl = new Label();
+            lbl.HorizontalTextAlignment = TextAlignment.Center;;
+            lbl.Text = "Please select a friend from the menu";
+            Content = lbl;
+        }
+
+        private void DisplayFriend()
+        {
             Title = Friend.FirstName + " " + Friend.LastName;
+
         }
     }
 }

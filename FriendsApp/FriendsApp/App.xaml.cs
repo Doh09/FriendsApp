@@ -15,7 +15,7 @@ namespace FriendsApp
         {
             InitializeComponent();
 
-            MainPage = new FriendsApp.Friends_MasterPage();
+            MainPage = new FriendsApp.Main();
         }
 
         protected override void OnStart()

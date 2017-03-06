@@ -20,13 +20,6 @@ C:\Users\alex_\onedrive\documents\visual studio 2015\Projects\FriendsApp\Friends
 C:\Users\alex_\onedrive\documents\visual studio 2015\Projects\FriendsApp\FriendsApp\FriendsApp\bin\Debug\NewEntities.pdb
 C:\Users\alex_\onedrive\documents\visual studio 2015\Projects\FriendsApp\FriendsApp\FriendsApp\obj\Debug\FriendsApp.dll.mdb
 C:\Users\alex_\onedrive\documents\visual studio 2015\Projects\FriendsApp\FriendsApp\FriendsApp\bin\Debug\FriendsApp.dll.mdb
-C:\Users\alex_\OneDrive\Documents\GitHub\FriendsApp\FriendsApp\FriendsApp\obj\Debug\FriendsApp.csprojResolveAssemblyReference.cache
-C:\Users\alex_\OneDrive\Documents\GitHub\FriendsApp\FriendsApp\FriendsApp\obj\Debug\FriendsApp.MainPage.xaml.g.cs
-C:\Users\alex_\OneDrive\Documents\GitHub\FriendsApp\FriendsApp\FriendsApp\obj\Debug\FriendsApp.App.xaml.g.cs
-C:\Users\alex_\OneDrive\Documents\GitHub\FriendsApp\FriendsApp\FriendsApp\obj\Debug\FriendsApp.Friends_MasterPage.xaml.g.cs
-C:\Users\alex_\OneDrive\Documents\GitHub\FriendsApp\FriendsApp\FriendsApp\obj\Debug\FriendsApp.FriendsDetailPage.xaml.g.cs
-C:\Users\alex_\OneDrive\Documents\GitHub\FriendsApp\FriendsApp\FriendsApp\obj\Debug\FriendsApp.dll
-C:\Users\alex_\OneDrive\Documents\GitHub\FriendsApp\FriendsApp\FriendsApp\obj\Debug\FriendsApp.pdb
 C:\Users\Martin\Documents\GitHub\FriendsApp\FriendsApp\FriendsApp\bin\Debug\FriendsApp.dll
 C:\Users\Martin\Documents\GitHub\FriendsApp\FriendsApp\FriendsApp\bin\Debug\FriendsApp.pdb
 C:\Users\Martin\Documents\GitHub\FriendsApp\FriendsApp\FriendsApp\bin\Debug\Interfaces.dll
@@ -50,6 +43,10 @@ C:\Users\Martin\Documents\GitHub\FriendsApp\FriendsApp\FriendsApp\obj\Debug\Frie
 C:\Users\Martin\Documents\GitHub\FriendsApp\FriendsApp\FriendsApp\obj\Debug\FriendsApp.pdb
 C:\Users\Martin\Documents\GitHub\FriendsApp\FriendsApp\FriendsApp\obj\Debug\FriendsApp.dll.mdb
 C:\Users\Martin\Documents\GitHub\FriendsApp\FriendsApp\FriendsApp\bin\Debug\FriendsApp.dll.mdb
+C:\Users\alex_\OneDrive\Documents\GitHub\FriendsApp\FriendsApp\FriendsApp\obj\Debug\FriendsApp.csprojResolveAssemblyReference.cache
+C:\Users\alex_\OneDrive\Documents\GitHub\FriendsApp\FriendsApp\FriendsApp\obj\Debug\FriendsApp.App.xaml.g.cs
+C:\Users\alex_\OneDrive\Documents\GitHub\FriendsApp\FriendsApp\FriendsApp\obj\Debug\FriendsApp.Friends_MasterPage.xaml.g.cs
+C:\Users\alex_\OneDrive\Documents\GitHub\FriendsApp\FriendsApp\FriendsApp\obj\Debug\FriendsApp.FriendsDetailPage.xaml.g.cs
 C:\Users\alex_\OneDrive\Documents\GitHub\FriendsApp\FriendsApp\FriendsApp\bin\Debug\FriendsApp.dll
 C:\Users\alex_\OneDrive\Documents\GitHub\FriendsApp\FriendsApp\FriendsApp\bin\Debug\FriendsApp.pdb
 C:\Users\alex_\OneDrive\Documents\GitHub\FriendsApp\FriendsApp\FriendsApp\bin\Debug\Interfaces.dll
@@ -64,5 +61,8 @@ C:\Users\alex_\OneDrive\Documents\GitHub\FriendsApp\FriendsApp\FriendsApp\bin\De
 C:\Users\alex_\OneDrive\Documents\GitHub\FriendsApp\FriendsApp\FriendsApp\bin\Debug\Xamarin.Forms.Platform.pdb
 C:\Users\alex_\OneDrive\Documents\GitHub\FriendsApp\FriendsApp\FriendsApp\bin\Debug\Xamarin.Forms.Xaml.pdb
 C:\Users\alex_\OneDrive\Documents\GitHub\FriendsApp\FriendsApp\FriendsApp\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\alex_\OneDrive\Documents\GitHub\FriendsApp\FriendsApp\FriendsApp\obj\Debug\FriendsApp.dll
+C:\Users\alex_\OneDrive\Documents\GitHub\FriendsApp\FriendsApp\FriendsApp\obj\Debug\FriendsApp.pdb
+C:\Users\alex_\OneDrive\Documents\GitHub\FriendsApp\FriendsApp\FriendsApp\obj\Debug\FriendsApp.Main.xaml.g.cs
 C:\Users\alex_\OneDrive\Documents\GitHub\FriendsApp\FriendsApp\FriendsApp\obj\Debug\FriendsApp.dll.mdb
 C:\Users\alex_\OneDrive\Documents\GitHub\FriendsApp\FriendsApp\FriendsApp\bin\Debug\FriendsApp.dll.mdb

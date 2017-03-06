@@ -2,15 +2,15 @@
   
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             Title="The Amazing Friends App"
              x:Class="FriendsApp.Friends_MasterPage">
 
   <ContentPage.Content>
     <StackLayout VerticalOptions="FillAndExpand">
-      <Label Text="The Amazing Friends App"></Label>
       <ListView x:Name="listView" VerticalOptions="FillAndExpand" SeparatorVisibility="None">
         <ListView.ItemTemplate>
           <DataTemplate>
-            <ImageCell Text="{Binding FirstName}" ImageSource="{Binding ProfileImgPath}" Tapped="Cell_OnTapped"/>
+            <ImageCell Text="{Binding FirstName}" ImageSource="{Binding ProfileImgPath}"/>
           </DataTemplate>
         </ListView.ItemTemplate>
       </ListView>

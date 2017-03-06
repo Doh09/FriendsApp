@@ -4,6 +4,23 @@
              x:Class="FriendsApp.FriendsDetailPage">
   <Label Text="{Binding MainText}" VerticalOptions="Center" HorizontalOptions="Center" />
 
-  <ContentPage.Content></ContentPage.Content>
+  <ContentPage.Content>
+    <StackLayout x:Name="FriendLayout" Orientation="Vertical">
+      <StackLayout x:Name="MainInfo" Orientation="Horizontal">
+        <Label>Name</Label>
+        <Label> Image</Label>
+      </StackLayout>
+      <StackLayout x:Name="LocationInfo" Orientation="Vertical">
+        <Label>Map</Label>
+        <StackLayout x:Name="Interacable" Orientation="Horizontal"> 
+          <Label>Numbers</Label>
+        </StackLayout>
+      </StackLayout>
+      <StackLayout x:Name="CallAndDial" Orientation="Horizontal">
+        <Label>Call</Label>
+        <Label>SMS</Label>
+      </StackLayout>
+    </StackLayout>
+  </ContentPage.Content>
 
 </ContentPage>

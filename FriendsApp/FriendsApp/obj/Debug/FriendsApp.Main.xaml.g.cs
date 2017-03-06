@@ -14,7 +14,7 @@ namespace FriendsApp {
     using Xamarin.Forms.Xaml;
     
     
-    public partial class Main : global::Xamarin.Forms.ContentPage {
+    public partial class Main : MasterDetailPage {
         
         [System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
         private void InitializeComponent() {

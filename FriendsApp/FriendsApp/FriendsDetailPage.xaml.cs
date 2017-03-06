@@ -42,6 +42,22 @@ namespace FriendsApp
         {
             Title = Friend.FirstName + " " + Friend.LastName;
 
+            StackLayout FriendLayout = new StackLayout();
+            FriendLayout.Orientation=StackOrientation.Vertical;
+
+            StackLayout MainInfo = new StackLayout();
+            MainInfo.Orientation = StackOrientation.Horizontal;
+
+            StackLayout LocationInfo = new StackLayout();
+            LocationInfo.Orientation = StackOrientation.Vertical;
+            StackLayout Interacable = new StackLayout();
+            Interacable.Orientation = StackOrientation.Horizontal;
+
+            StackLayout CallAndDial = new StackLayout();
+            CallAndDial.Orientation = StackOrientation.Horizontal;
+            
+
+            Content = FriendLayout;
         }
     }
 }

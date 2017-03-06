@@ -17,7 +17,13 @@ namespace FriendsApp
         {
             InitializeComponent();
 
-            var Friends = new List<Friend>();
+            var Friends = GetMockFriendList();
+            listView.ItemsSource = Friends;
+
+        }
+
+        private List<Friend> GetMockFriendList() {
+           List<Friend> Friends = new List<Friend>();
             Friends.Add(new Friend
             {
                 id = 1,
@@ -69,9 +75,7 @@ namespace FriendsApp
                 ProfileImgPath = "HuehuesImagePath",
                 CustomText = "Huehue is a student at EASV"
             });
-
-            listView.ItemsSource = Friends;
-
+            return Friends;
         }
     }
 }

@@ -1,4 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
+  
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="FriendsApp.Friends_MasterPage">
@@ -9,7 +10,7 @@
       <ListView x:Name="listView" VerticalOptions="FillAndExpand" SeparatorVisibility="None">
         <ListView.ItemTemplate>
           <DataTemplate>
-            <ImageCell Text="{Binding FirstName}" ImageSource="{Binding ProfileImgPath}"/>
+            <ImageCell Text="{Binding FirstName}" ImageSource="{Binding ProfileImgPath} "/>
           </DataTemplate>
         </ListView.ItemTemplate>
       </ListView>

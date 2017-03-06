@@ -2,6 +2,7 @@
 using Interfaces;
 using System;
 using System.Collections.Generic;
+using System.ComponentModel;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -79,6 +80,11 @@ namespace FriendsApp
                 CustomText = "Huehue is a student at EASV"
             });
             return Friends;
+        }
+
+        private void BindableObject_OnPropertyChanged(object sender, PropertyChangedEventArgs e)
+        {
+           App.MyToast.DisplayToast("Clicked");
         }
     }
 }

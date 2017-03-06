@@ -52,5 +52,3 @@ C:\Users\Martin\Documents\GitHub\FriendsApp\FriendsApp\FriendsApp\obj\Debug\Frie
 C:\Users\Martin\Documents\GitHub\FriendsApp\FriendsApp\FriendsApp\obj\Debug\FriendsApp.pdb
 C:\Users\Martin\Documents\GitHub\FriendsApp\FriendsApp\FriendsApp\obj\Debug\FriendsApp.dll.mdb
 C:\Users\Martin\Documents\GitHub\FriendsApp\FriendsApp\FriendsApp\bin\Debug\FriendsApp.dll.mdb
-C:\Users\Martin\Documents\GitHub\FriendsApp\FriendsApp\FriendsApp\obj\Debug\FriendsApp.dll.mdb
-C:\Users\Martin\Documents\GitHub\FriendsApp\FriendsApp\FriendsApp\bin\Debug\FriendsApp.dll.mdb

@@ -10,7 +10,7 @@ namespace FriendsApp
 {
     public partial class App : Application
     {
-        public IToast MyToast { get; set; }
+        public static IToast MyToast { get; set; }
         public App()
         {
             InitializeComponent();

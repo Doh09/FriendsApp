@@ -4,3 +4,4 @@
              x:Class="FriendsApp.FriendsDetailPage">
   <Label Text="{Binding MainText}" VerticalOptions="Center" HorizontalOptions="Center" />
 </ContentPage>
+

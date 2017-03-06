@@ -41,6 +41,7 @@
     <Compile Include="FriendsDetailPage.xaml.cs">
       <DependentUpon>FriendsDetailPage.xaml</DependentUpon>
     </Compile>
+    <Compile Include="FriendsManager.cs" />
     <Compile Include="Friends_MasterPage.xaml.cs">
       <DependentUpon>Friends_MasterPage.xaml</DependentUpon>
     </Compile>

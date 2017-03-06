@@ -10,7 +10,7 @@
       <ListView x:Name="listView" VerticalOptions="FillAndExpand" SeparatorVisibility="None">
         <ListView.ItemTemplate>
           <DataTemplate>
-            <ImageCell Text="{Binding FirstName}" ImageSource="{Binding ProfileImgPath} "/>
+            <ImageCell Text="{Binding FirstName}" ImageSource="{Binding ProfileImgPath}" Tapped="Cell_OnTapped"/>
           </DataTemplate>
         </ListView.ItemTemplate>
       </ListView>

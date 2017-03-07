@@ -12,7 +12,7 @@ namespace FriendsApp
     public partial class FriendsDetailPage : ContentPage
     {
         private static IDialer dialer = DependencyService.Get<IDialer>();
-        //private static ISMSHandler sms = DependencyService.Get<ISMSHandler>();
+        private static ISMSHandler sms = DependencyService.Get<ISMSHandler>();
 
         private Friend Friend { get; set; }
         public FriendsDetailPage(Friend friend)
@@ -41,23 +41,20 @@ namespace FriendsApp
         private void DisplayFriend()
         {
             Title = Friend.FirstName + " " + Friend.LastName;
+            lblName.Text = $"{Friend.FirstName} {Friend.LastName}";
+            lblName.FontSize *= 3; 
+            imgFriend.Source = Friend.ProfileImgPath;
 
-            StackLayout FriendLayout = new StackLayout();
-            FriendLayout.Orientation=StackOrientation.Vertical;
+        }
 
-            StackLayout MainInfo = new StackLayout();
-            MainInfo.Orientation = StackOrientation.Horizontal;
+        private void Call_Button_OnClicked(object sender, EventArgs e)
+        {
+            dialer.StartDial("12345678");
+        }
 
-            StackLayout LocationInfo = new StackLayout();
-            LocationInfo.Orientation = StackOrientation.Vertical;
-            StackLayout Interacable = new StackLayout();
-            Interacable.Orientation = StackOrientation.Horizontal;
-
-            StackLayout CallAndDial = new StackLayout();
-            CallAndDial.Orientation = StackOrientation.Horizontal;
-            
-
-            Content = FriendLayout;
+        private void SMS_Button_OnClicked(object sender, EventArgs e)
+        {
+            sms.StartSMSApp("12345678", "Test");
         }
     }
 }

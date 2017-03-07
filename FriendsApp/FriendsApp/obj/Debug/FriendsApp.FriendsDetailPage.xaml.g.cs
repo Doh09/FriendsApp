@@ -23,6 +23,12 @@ namespace FriendsApp {
         private global::Xamarin.Forms.StackLayout MainInfo;
         
         [System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
+        private global::Xamarin.Forms.Label lblName;
+        
+        [System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
+        private global::Xamarin.Forms.Image imgFriend;
+        
+        [System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
         private global::Xamarin.Forms.StackLayout LocationInfo;
         
         [System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
@@ -36,6 +42,8 @@ namespace FriendsApp {
             this.LoadFromXaml(typeof(FriendsDetailPage));
             FriendLayout = this.FindByName<global::Xamarin.Forms.StackLayout>("FriendLayout");
             MainInfo = this.FindByName<global::Xamarin.Forms.StackLayout>("MainInfo");
+            lblName = this.FindByName<global::Xamarin.Forms.Label>("lblName");
+            imgFriend = this.FindByName<global::Xamarin.Forms.Image>("imgFriend");
             LocationInfo = this.FindByName<global::Xamarin.Forms.StackLayout>("LocationInfo");
             Interacable = this.FindByName<global::Xamarin.Forms.StackLayout>("Interacable");
             CallAndDial = this.FindByName<global::Xamarin.Forms.StackLayout>("CallAndDial");

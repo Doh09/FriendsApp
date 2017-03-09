@@ -38,6 +38,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="IDialer.cs" />
+    <Compile Include="IMapSystem.cs" />
     <Compile Include="ISMSHandler.cs" />
     <Compile Include="IToast.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

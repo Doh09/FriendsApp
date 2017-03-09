@@ -13,6 +13,7 @@ namespace FriendsApp
     {
         private static IDialer dialer = DependencyService.Get<IDialer>();
         private static ISMSHandler sms = DependencyService.Get<ISMSHandler>();
+        private static IMapSystem mapSystem = DependencyService.Get<IMapSystem>();
 
         private Friend Friend { get; set; }
         public FriendsDetailPage(Friend friend)

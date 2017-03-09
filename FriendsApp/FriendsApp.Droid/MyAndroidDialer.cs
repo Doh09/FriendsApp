@@ -28,7 +28,7 @@ namespace FriendsApp.Droid
             Dial(Intent.ActionDial, number);
         }
 
-        private void Dial(String dialMethod, String number)
+        private void Dial(string dialMethod, string number)
         {
             var activity = (Activity)Forms.Context;
             var uri = Android.Net.Uri.Parse("tel:" + number);

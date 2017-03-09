@@ -35,7 +35,19 @@ namespace FriendsApp {
         private global::Xamarin.Forms.StackLayout Interacable;
         
         [System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
+        private global::Xamarin.Forms.Label lblMapLength;
+        
+        [System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
+        private global::Xamarin.Forms.Button btnFindMap;
+        
+        [System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
         private global::Xamarin.Forms.StackLayout CallAndDial;
+        
+        [System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
+        private global::Xamarin.Forms.Button btnDial;
+        
+        [System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
+        private global::Xamarin.Forms.Button btnSMS;
         
         [System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
         private void InitializeComponent() {
@@ -46,7 +58,11 @@ namespace FriendsApp {
             imgFriend = this.FindByName<global::Xamarin.Forms.Image>("imgFriend");
             LocationInfo = this.FindByName<global::Xamarin.Forms.StackLayout>("LocationInfo");
             Interacable = this.FindByName<global::Xamarin.Forms.StackLayout>("Interacable");
+            lblMapLength = this.FindByName<global::Xamarin.Forms.Label>("lblMapLength");
+            btnFindMap = this.FindByName<global::Xamarin.Forms.Button>("btnFindMap");
             CallAndDial = this.FindByName<global::Xamarin.Forms.StackLayout>("CallAndDial");
+            btnDial = this.FindByName<global::Xamarin.Forms.Button>("btnDial");
+            btnSMS = this.FindByName<global::Xamarin.Forms.Button>("btnSMS");
         }
     }
 }

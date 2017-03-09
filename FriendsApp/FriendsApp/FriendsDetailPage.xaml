@@ -13,13 +13,13 @@
       <StackLayout x:Name="LocationInfo" Orientation="Vertical">
         <Label Text="Map"></Label>
         <StackLayout x:Name="Interacable" Orientation="Horizontal">
-          <Label Text="Numbers"></Label>
-          <Button Text="Find"></Button>
+          <Label x:Name="lblMapLength" Text="Numbers"></Label>
+          <Button x:Name="btnFindMap" Text="Find"></Button>
         </StackLayout>
       </StackLayout>
       <StackLayout x:Name="CallAndDial" Orientation="Horizontal">
-        <Button Text="Call" Clicked="Call_Button_OnClicked"></Button>
-        <Button Text="SMS" Clicked="SMS_Button_OnClicked"></Button>
+        <Button x:Name="btnDial" Text="Call" Clicked="Call_Button_OnClicked"></Button>
+        <Button x:Name="btnSMS" Text="SMS" Clicked="SMS_Button_OnClicked"></Button>
       </StackLayout>
     </StackLayout>
   </ContentPage.Content>
